@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="main.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="10" Y="6"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="operaciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Operaciones"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="32" Y="46"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="operaciones.pas"/>
+        <Caret Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="operaciones.pas"/>
+        <Caret Line="19" Column="56" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="operaciones.pas"/>
+        <Caret Line="17" Column="108" TopLine="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

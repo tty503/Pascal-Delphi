@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="33"/>
+        <CursorPos X="43" Y="53"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <Caret Line="11" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <Caret Line="3" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <Caret Line="4" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <Caret Line="18" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <Caret Line="9" Column="7" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <Caret Line="49" Column="76" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="Entrada_Salida.lpr"/>
+        <Caret Line="52" Column="71" TopLine="31"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
